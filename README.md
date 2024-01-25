@@ -1,4 +1,4 @@
-# Task 1: Create S3 Bucket lifecycle policy using Terraform
+# Task 2: Create S3 Bucket lifecycle policy using Terraform
 
 ## <center>Lab Details</center>
 1. This lab walks you through steps on how to create a Lifecycle Rule for an object in an S3 Bucket using terraform. 
